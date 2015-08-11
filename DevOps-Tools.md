@@ -28,6 +28,8 @@
 
 ####git push
 
+#### To **learn more** check out: GoTeaLeaf.com/books/git
+
 ---
 
 ![inline](https://www.prestashop.com/blog/en/files/2014/06/github-logo.png)
@@ -112,6 +114,15 @@
 #**An Open Source** cloud computing platform as a service **(PaaS)**
 
 ---
+
+![fit](http://ig.obsglobal.com/wp-content/uploads/2013/07/cloudfoundry_structure.png)
+
+---
+
+![fit](http://kpcbweb2.s3.amazonaws.com/companies/542/logo/original/slack-logo_large.png)
+
+---
+
 #[fit] **Thank** You!
 
 ### **Contact:** Richard.McGrath@EMC.com
