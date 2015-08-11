@@ -30,12 +30,12 @@
 
 ---
 
-# [fit] Here is
-# [fit] The lowdown
+![inline](https://www.prestashop.com/blog/en/files/2014/06/github-logo.png)
+###Web-based Git repository hosting service
 
 ---
 
-# [fit] **_1_**
+![fit](https://www.seedprod.com/wp-content/uploads/2015/05/Github-Search-Box-404-Page-Screenshot-Tiny-800x456.png)
 
 ---
 
