@@ -123,21 +123,30 @@
 
 ---
 
-##Recommended Reading
+##**Recommended** Reading
 
 ![inline fit](https://puppetlabs.com/wp-content/uploads/2012/12/The-Phoenix-Proect-A-Novel-about-IT-DevOps-and-Helping-your-Business-Win.png)
 
 ---
 
-##Recommended Reading
+##**Recommended** Reading
 
 ![inline](http://akamaicovers.oreilly.com/images/9780978739218/lrg.jpg)
 
 ---
 
-##Recommended Reading
+##Recommended **Reading**
 
-![line](http://akamaicovers.oreilly.com/images/0636920033158/lrg.jpg)
+![inline](http://akamaicovers.oreilly.com/images/0636920033158/lrg.jpg)
+
+---
+
+##**Great** Resources
+
+###reddit.com/r/DevOps
+###12factor.net
+###news.ycombinator.com
+###community.emccode.com
 
 ---
 
