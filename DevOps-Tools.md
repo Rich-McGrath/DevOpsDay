@@ -1,5 +1,5 @@
 
-# [fit] DevOps Toolkit
+# [fit] **DevOps** Toolkit
 
 ---
 
@@ -112,7 +112,7 @@
 #**An Open Source** cloud computing platform as a service **(PaaS)**
 
 ---
-# [fit] **Thank** You!
+#[fit] **Thank** You!
 
 ### **Contact:** Richard.McGrath@EMC.com
 ### **GitHub:** Github.com/Rich-McGrath
