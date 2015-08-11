@@ -3,11 +3,19 @@
 
 ---
 
-# Git / Github.com
+# **Git**
+####Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+### http://www.git-scm.com
 
 ---
+# **Git Commands**
 
-# [fit] BIG?
+####git add .
+
+####git commit -am "Enter in a message here"
+
+####git push
 
 ---
 
