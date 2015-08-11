@@ -112,25 +112,7 @@
 #**An Open Source** cloud computing platform as a service **(PaaS)**
 
 ---
+# [fit] **Thank** You!
 
-# [fit] **_3_**
-
----
-
-# [fit] Go forth and create:
-
----
-
-# [fit] Impact
-
----
-
-# [fit] &
-
----
-
-# [fit] Focus
-
----
-
-# [fit] :heart:
+### **Contact:** Richard.McGrath@EMC.com
+### **GitHub:** Github.com/Rich-McGrath
