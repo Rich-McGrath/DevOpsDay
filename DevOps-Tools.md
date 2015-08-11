@@ -45,23 +45,65 @@
 
 ---
 
-# [fit] To the start
-# [fit] of any headline
+# **Vagrantbox.es**
+
+###vagrant box add {title} {url}
+###vagrant init {title}
+###vagrant up
 
 ---
 
-# [fit] _**(After the hash & before the headline)**_
-# [fit] _**Like so:**_ `# [fit] Your awesome headline`
+![fit](http://kappataumu.com/uploads/packer_splash.jpg)
 
 ---
 
-# [fit] **_2_**
+#The **Template**
+###example.**json**
+
+````json
+{
+  "variables": {
+    "aws_access_key": "",
+    "aws_secret_key": ""
+  },
+  "builders": [{
+    "type": "amazon-ebs",
+    "access_key": "{{user `aws_access_key`}}",
+    "secret_key": "{{user `aws_secret_key`}}",
+    "region": "us-east-1",
+    "source_ami": "ami-de0d9eb7",
+    "instance_type": "t1.micro",
+    "ssh_username": "ubuntu",
+    "ami_name": "packer-example {{timestamp}}"
+  }]
+}
+````
+
+![right fit](https://packer.io/assets/images/screenshots/works_with-a1a499d3.png)
 
 ---
 
-# [fit] Only
-# [fit] use Headlines
-# [fit] _**Start it with a # — no Paragraphs or lists within your slide**_
+#**VMware** Example
+```json
+{
+           "type": "vmware-iso",
+           "iso_url": "{{user `iso_url`}}",
+           "iso_checksum": "{{user `iso_checksum`}}",
+           "iso_checksum_type": "{{user `iso_checksum_type`}}",
+           "http_directory": ".",
+           "boot_wait": "5s",
+           "boot_command": [
+               "<enter><wait10><wait10>",
+               "/usr/bin/curl -O http://{{.HTTPIP}}:{{.HTTPPort}}/install-vmware.sh<enter><wait5>",
+               "/usr/bin/curl -O http://{{.HTTPIP}}:{{.HTTPPort}}/poweroff.timer<enter><wait5>",
+               "/usr/bin/bash ./install-vmware.sh<enter>"
+           ],
+           "disk_size": 20480,
+           "ssh_username": "root",
+           "ssh_password": "vagrant",
+           "shutdown_command": "systemctl start poweroff.timer"
+       }
+```
 
 ---
 
