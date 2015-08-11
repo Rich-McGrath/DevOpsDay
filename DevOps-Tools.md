@@ -9,6 +9,17 @@
 ### http://www.git-scm.com
 
 ---
+
+![left fit](http://www.git-scm.com/images/assurance@2x.png)
+
+### Distributed
+### Small and Fast
+### Staging Area -> **git commit -a**
+### Encouraged to have multiple local branches
+### Easy Merges
+
+---
+
 # **Git Commands**
 
 ####git add .
@@ -16,13 +27,6 @@
 ####git commit -am "Enter in a message here"
 
 ####git push
-
----
-
-# [fit] Deckset
-# [fit] has something
-# [fit] for **_you_**…
-
 
 ---
 
