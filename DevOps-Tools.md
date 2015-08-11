@@ -107,9 +107,9 @@
 
 ---
 
-# [fit] If you do add something else, other than a headline…
+![inline](https://www.cloudfoundry.org/wp-content/uploads/2015/06/Logo_CloudFoundry_Horizontal_HighRes1.png)
 
-We will assume you have more to say and we ignore the [fit] text as it would be pretty weird to squish so much stuff on a slide.
+#**An Open Source** cloud computing platform as a service **(PaaS)**
 
 ---
 
