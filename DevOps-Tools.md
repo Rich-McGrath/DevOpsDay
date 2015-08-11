@@ -39,7 +39,9 @@
 
 ---
 
-# [fit] Add _**[fit]**_
+![fit inline](http://tzookb.com/wp-content/uploads/2015/01/vagrant.png)
+
+##Creates and configures virtual development environment
 
 ---
 
